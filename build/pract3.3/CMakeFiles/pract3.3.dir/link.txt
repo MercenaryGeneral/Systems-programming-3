@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/pract3.3.dir/pract3.3.c.o  -o pract3.3 
